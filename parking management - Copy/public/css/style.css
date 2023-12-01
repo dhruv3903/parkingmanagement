@@ -1,0 +1,22 @@
+h2{
+    color: red;
+}
+#login{
+    display: flex;
+align-items: center;
+height: 600px;
+}
+#header{
+    background: rebeccapurple;
+padding: 15px 0px;
+}
+#header h4{
+color: white;
+}
+#header button{
+float: right;
+}
+#footer{
+    background: blue;
+    padding: 10px,0px;
+}
